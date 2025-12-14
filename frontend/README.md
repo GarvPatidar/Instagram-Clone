@@ -13,21 +13,7 @@ This is a starter pack for building React applications with Tailwind CSS. It com
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-### Installation
-- Click on Code then Download Zip
-1. Clone this repository:
-    ```bash
-    https://github.com/PankajKumar1947/React-tailwind-starter-pack.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd tailwind-react-starter
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-### Usage
+
 
 - Start the development server:
 ```bash
