@@ -1,7 +1,7 @@
 
 ## Task 01
 
-# Full Stack Instagram Clone
+# Mini Instagram Clone
 
 ## Project Overview
 
